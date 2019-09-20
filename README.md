@@ -1,1 +1,1 @@
-# landing-vanillajs
+# landing_project
